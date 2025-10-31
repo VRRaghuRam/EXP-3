@@ -53,7 +53,8 @@ APPARATUS REQUIRED:
 
 
 # CIRCUIT DIAGRAM & TABULATION 2 :
-![WhatsApp Image 2025-10-31 at 09 22 48_9e732cec](https://github.com/user-attachments/assets/76b7c0e0-819a-4cba-8bc4-d634d21e4839)
+![Uploading WhatsApp Image 2025-10-31 at 09.07.25_4614f5e1.jpg…]()
+
 ![WhatsApp Image 2025-10-31 at 09 07 25_3811081e](https://github.com/user-attachments/assets/3f296ba4-83d0-4a16-a695-bcd659449c22)
 
 
